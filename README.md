@@ -1,5 +1,5 @@
-# 2023_SARS_VariantCall
-Clinical SARS-CoV-2 Variant Calling scripts for [Wouters et al., 2023]()
+# 2023 SARS-CoV-2 VariantCalls
+Clinical SARS-CoV-2 Variant Calling scripts for [Wouters et al., 2023]() Figure X. 
 
 ### Raw Data 
 * FASTQ: [Placeholder SRA Link](https://www.ncbi.nlm.nih.gov/sra)
