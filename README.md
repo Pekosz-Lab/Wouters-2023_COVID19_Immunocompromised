@@ -2,17 +2,17 @@
 Clinical SARS-CoV-2 Variant Calling scripts for [Wouters et al., 2023]()
 
 ### Raw Data 
-FASTQ: [Placeholder SRA Link](https://www.ncbi.nlm.nih.gov/sra)
-Sorted BAM: [Placeholder SRA Link](https://www.ncbi.nlm.nih.gov/sra)
+* FASTQ: [Placeholder SRA Link](https://www.ncbi.nlm.nih.gov/sra)
+* Sorted BAM: [Placeholder SRA Link](https://www.ncbi.nlm.nih.gov/sra)
 
 ### Variant Call Data
-[Merged_PASS_complete_calls.vcf](/data/Merged_PASS_complete_calls.vcf): Merged VCF for all isolates. 
-[merged_min11074.vcf](/data/merged_min11074.vcf): Merged VCF for all isolates **excluding** site 11074.
+* [Merged_PASS_complete_calls.vcf](/data/Merged_PASS_complete_calls.vcf): Merged VCF for all isolates. 
+* [merged_min11074.vcf](/data/merged_min11074.vcf): Merged VCF for all isolates **excluding** site 11074.
 
 ### Scripts 
-[vcf2pmatrix.py](/scripts/vcf2pmatrix.py): Scripts for extracting variant call matrix from VCF.
-[ratio.py](/scripts/ratio.py): Scripts for calculating REF allele ratio from call matrix.
-[variant_plot.R](/scripts/variant_plot.R): Scripts for plotting frequency. 
+* [vcf2pmatrix.py](/scripts/vcf2pmatrix.py): Scripts for extracting variant call matrix from VCF.
+* [ratio.py](/scripts/ratio.py): Scripts for calculating REF allele ratio from call matrix.
+* [variant_plot.R](/scripts/variant_plot.R): Scripts for plotting frequency. 
 
 ### Methods:
 
@@ -24,7 +24,7 @@ VCF filtering across the 6 patient genomes yielded a total of 94 total polymorph
 
 TODO:
 
-1. Camille Decide on what supplementary files to include in paper vs github (VCF tables) - can include non-visualized variants this way...
+1. Camille Decide on what supplementary files to include in paper vs github (VCF tables).
 2. Request remaining FASTQ file from rerun sample - Amary
 3. Upload FASTQ files to SRA
 4. Upload BAM Files to SRA
