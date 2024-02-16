@@ -1,0 +1,16 @@
+sysname 
+"Darwin" 
+release 
+"23.2.0" 
+version 
+"Darwin Kernel Version 23.2.0: Fri Oct 13 09:27:54 PDT 2023; root:xnu-10002.60.54~14/RELEASE_ARM64_T6000" 
+nodename 
+"Elgins-MacBook-Pro-2.local" 
+machine 
+"x86_64" 
+login 
+"root" 
+user 
+"elgin" 
+effective_user 
+"elgin" 
